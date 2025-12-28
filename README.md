@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a cool gmail app.<br>🏆My past projects are Arkanoid game and discrete math calculator<br>💬 Ask me about anything ;)<br>⚡ Fun fact: I'm just a student:)
+🔭 I’m currently working on a cool gmail app.<br>🏆My past projects are Arkanoid game, discrete math calculator, and a mouse quick carousel pannel<br>💬 Ask me about anything ;)<br>⚡ Fun fact: I'm just a student:)
 
 
 ## 🌐 Socials:
